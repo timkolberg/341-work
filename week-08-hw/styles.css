@@ -1,0 +1,23 @@
+h1 {
+  font-family: 'Revalia', cursive;
+}
+
+body {
+  background-color: #514538;
+  background-image:url("pics/jungle.jpg");
+  background-repeat: no-repeat;
+  background-position: 0 120px;
+  color: #750135;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.main {font-size: 30px; color:#F3F7DD;background-color:#8c355e;}
+#nav {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#nav a:link { color: #ead7df; text-decoration: none;}
+#nav a:visited { color: #B31919; }
+#nav a:hover { color: #70DB93; }
+#nav a:active { color: #B31919 }
