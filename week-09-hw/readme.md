@@ -11,6 +11,13 @@ using CSS before, but it never hurts to practice and learn more
 about how it works and how
 to use it structure your web design layout effectively.
 
+### Color Pallete
+Since I chose my web page subject matter to be the 
+MATRIX, I decided to go with a mostly black color
+scheme, with some white, and of course raining
+green code background image!
+
+
 
 
 ### Conclusion
